@@ -1,0 +1,375 @@
+"serverblacklist"
+{
+	"server"
+	{
+		"name"		"    We Gon' Game || Public tf2 Server || 24/7 pl_goldrush+cp_du"
+		"date"		"1343725362"
+		"addr"		"37.59.196.142:27031"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Foundry Only"
+		"date"		"1344345669"
+		"addr"		"82.165.35.112:27018"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Vanilla // No Mods // Attack Maps"
+		"date"		"1344345672"
+		"addr"		"82.165.36.110:27019"
+	}
+	"server"
+	{
+		"name"		"http://www.nighteam.com [EU] - MvM #2 24/7"
+		"date"		"1345146346"
+		"addr"		"94.23.17.225:27016"
+	}
+	"server"
+	{
+		"name"		"GamingDuplex.co.uk TF2 #1 MVM"
+		"date"		"1345146350"
+		"addr"		"94.23.157.244:27015"
+	}
+	"server"
+	{
+		"name"		"GamingMasters.org -- Mann vs. Machine"
+		"date"		"1345324630"
+		"addr"		"81.19.212.48:27404"
+	}
+	"server"
+	{
+		"name"		"http://www.nighteam.com [EU] - WELL CP 24/7"
+		"date"		"1346708346"
+		"addr"		"178.63.92.153:27016"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // CP Well Only"
+		"date"		"1346708348"
+		"addr"		"87.106.11.228:27015"
+	}
+	"server"
+	{
+		"name"		"http://www.nighteam.com [EU] - GOLDRUSH 24/7"
+		"date"		"1346767539"
+		"addr"		"178.63.95.114:27016"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Vanilla // No Mods // Attack Maps"
+		"date"		"1346767542"
+		"addr"		"87.106.11.228:27019"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Badlands Only"
+		"date"		"1347114912"
+		"addr"		"87.106.189.166:27015"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Badwater Only"
+		"date"		"1347114917"
+		"addr"		"87.106.189.166:27016"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Barnblitz Only"
+		"date"		"1347114917"
+		"addr"		"82.165.135.184:27016"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Doomsday Only #1"
+		"date"		"1347114917"
+		"addr"		"217.160.109.248:27024"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Fastlane Only"
+		"date"		"1347114917"
+		"addr"		"87.106.1.234:27016"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Freight Only"
+		"date"		"1347114917"
+		"addr"		"212.227.22.108:27019"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Goldrush Only"
+		"date"		"1347114917"
+		"addr"		"87.106.189.166:27017"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Gorge Only"
+		"date"		"1347114917"
+		"addr"		"87.106.189.166:27018"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Granary Only"
+		"date"		"1347114917"
+		"addr"		"217.160.107.113:27016"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Gullywash Only"
+		"date"		"1347114917"
+		"addr"		"82.165.135.184:27022"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Harvest Event Only // Fast Respawn"
+		"date"		"1347114917"
+		"addr"		"82.165.135.184:27023"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Hoodoo Only"
+		"date"		"1347114917"
+		"addr"		"87.106.11.228:27016"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // KongKing Only"
+		"date"		"1347114917"
+		"addr"		"87.106.1.234:27019"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Koth Badlands Only"
+		"date"		"1347114917"
+		"addr"		"82.165.135.184:27019"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // KOTH on Arena Maps"
+		"date"		"1347114917"
+		"addr"		"212.227.22.108:27020"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Koth Sawmill Only"
+		"date"		"1347114917"
+		"addr"		"212.227.22.108:27021"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Mountainlab Only"
+		"date"		"1347114917"
+		"addr"		"217.160.109.239:27017"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Nightfall Only"
+		"date"		"1347114917"
+		"addr"		"87.106.128.109:27020"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Pipeline Only"
+		"date"		"1347114917"
+		"addr"		"212.227.22.108:27015"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Vanilla #1 // No Mods"
+		"date"		"1347114917"
+		"addr"		"87.106.11.228:27017"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Vanilla #2 // No Mods"
+		"date"		"1347114922"
+		"addr"		"87.106.128.109:27022"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Vanilla // No Mods // 2Fort Only"
+		"date"		"1347114922"
+		"addr"		"82.165.35.112:27023"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Vanilla // No Mods // CP Maps"
+		"date"		"1347114922"
+		"addr"		"87.106.11.228:27020"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Vanilla // No Mods // CTF Maps"
+		"date"		"1347114922"
+		"addr"		"87.106.11.228:27018"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Vanilla // No Mods // Dustbowl Onl"
+		"date"		"1347114922"
+		"addr"		"82.165.35.112:27024"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Vanilla // No Mods // Koth Maps"
+		"date"		"1347114922"
+		"addr"		"82.165.35.112:27022"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Vanilla // No Mods // Payload Maps"
+		"date"		"1347114922"
+		"addr"		"87.106.11.228:27021"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Vanilla // No Mods // Payload Race"
+		"date"		"1347114922"
+		"addr"		"217.160.109.248:27023"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Yukon Only"
+		"date"		"1347114922"
+		"addr"		"82.165.35.112:27017"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Dustbowl Only"
+		"date"		"1347576272"
+		"addr"		"87.106.128.109:27016"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Gravelpit Only"
+		"date"		"1347576276"
+		"addr"		"217.160.107.113:27017"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // 5Gorge Only"
+		"date"		"1347576277"
+		"addr"		"82.165.135.184:27015"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Coldfront Only"
+		"date"		"1347576289"
+		"addr"		"217.160.109.248:27018"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // CP Well Only"
+		"date"		"1347576289"
+		"addr"		"87.106.93.133:27015"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Egypt Only"
+		"date"		"1347576289"
+		"addr"		"87.106.1.234:27015"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Junction Only"
+		"date"		"1347576289"
+		"addr"		"87.106.1.234:27017"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Steel Only"
+		"date"		"1347576289"
+		"addr"		"212.227.22.108:27022"
+	}
+	"server"
+	{
+		"name"		"http://www.nighteam.com [EU] - COLDFRONT 24/7"
+		"date"		"1347576297"
+		"addr"		"46.4.85.38:27016"
+	}
+	"server"
+	{
+		"name"		"http://www.nighteam.com [EU] - EGYPT 24/7"
+		"date"		"1347576297"
+		"addr"		"178.63.83.91:27018"
+	}
+	"server"
+	{
+		"name"		"http://www.nighteam.com [EU] - FASTLANE 24/7"
+		"date"		"1347576297"
+		"addr"		"46.4.85.38:27017"
+	}
+	"server"
+	{
+		"name"		"http://www.nighteam.com [EU] - FREIGHT 24/7"
+		"date"		"1347576297"
+		"addr"		"46.4.85.38:27018"
+	}
+	"server"
+	{
+		"name"		"http://www.nighteam.com [EU] - GORGE 24/7"
+		"date"		"1347576297"
+		"addr"		"178.63.92.153:27019"
+	}
+	"server"
+	{
+		"name"		"http://www.nighteam.com [EU] - GRAVELPIT 24/7"
+		"date"		"1347576297"
+		"addr"		"178.63.83.91:27117"
+	}
+	"server"
+	{
+		"name"		"http://www.nighteam.com [EU] - MOUNTAIN LAB 24/7"
+		"date"		"1347576297"
+		"addr"		"178.63.83.91:27115"
+	}
+	"server"
+	{
+		"name"		"Jolly Jelly Jungle {3J}, public, smac, goldrush, dustbowl and b"
+		"date"		"1349645358"
+		"addr"		"94.23.157.21:27031"
+	}
+	"server"
+	{
+		"name"		" YTY| The BEST Server | Dustbowl/Badwater/Goldrush 24/7"
+		"date"		"1349724890"
+		"addr"		"188.165.192.159:27032"
+	}
+	"server"
+	{
+		"name"		"The Dope Boys are in the Server =DB=, Quickplay Enabled, pl_gol"
+		"date"		"1349775994"
+		"addr"		"94.23.157.21:27019"
+	}
+	"server"
+	{
+		"name"		"    That duracell bunny is a spy | goldrush/badwater/dustbowl m"
+		"date"		"1349779991"
+		"addr"		"94.23.157.21:27018"
+	}
+	"server"
+	{
+		"name"		"Trolling Bunnies.com UK[MGEMod] MGESTATS"
+		"date"		"1349989819"
+		"addr"		"91.186.3.154:27016"
+	}
+	"server"
+	{
+		"name"		"Trolling Bunnies.com UK[MGEMOD] UNLOCKS+ALL CLASS MGESTATS"
+		"date"		"1349989821"
+		"addr"		"91.186.3.154:27019"
+	}
+	"server"
+	{
+		"name"		"       =[pG]=| 24/7 FOUNDRY (EU) | NO BOTS | gameME | prestige-"
+		"date"		"1351094509"
+		"addr"		"85.13.195.219:27015"
+	}
+	"server"
+	{
+		"name"		"    skial.com | BADWATER | EU 2"
+		"date"		"1351758126"
+		"addr"		"188.165.211.23:2015"
+	}
+}
