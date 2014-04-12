@@ -1,6 +1,6 @@
 "motd_entries"
 {
-	"last_request_time"		"2013-02-15 15:37:42"
+	"last_request_time"		"2014-02-08 14:38:24"
 	"last_request_language"		"english"
 	"1"
 	{
@@ -530,6 +530,118 @@ Click the button below for more details"
 		"image"		"../backpack/player/items/all_class/all_penguin_large"
 		"header_type"		"0"
 		"header_english"		"News"
+		"header_icon"		"class_icons/filter_all_motd"
+	}
+	"49"
+	{
+		"post_time"		"2013-05-18 02:00:00"
+		"title_english"		"Robotic Boogaloo"
+		"text_english"		"Team Fortress 2 is releasing the first entirely community created update.  
+			
+Check out the Robotic Boogaloo website and learn more about the hats, miscs, comic and video created for this update by clicking the button below.
+
+RoboCrates will become rare drops after June 3rd, open them while you can."
+		"url"		"http://www.teamfortress.com/roboticboogaloo/"
+		"image"		"main_menu/motd_robo_2013"
+		"header_type"		"1"
+		"header_english"		"Community"
+		"header_icon"		"class_icons/filter_all_motd"
+	}
+	"50"
+	{
+		"post_time"		"2013-07-03 02:00:00"
+		"title_english"		"Summer Appetizer"
+		"text_english"		"To whet everyone’s appetite, the Summer Appetizer crate is now dropping.  
+			
+Summer Appetizer crates contain the first set of Gold Star approved Community items using the new Workshop item import tool."
+		"image"		"../backpack/crafting/summer_appetizer_crate_large"
+		"header_type"		"1"
+		"header_english"		"News"
+		"header_icon"		"class_icons/filter_all_motd"
+	}
+	"51"
+	{
+		"post_time"		"2013-07-11 02:00:00"
+		"title_english"		"Summer Cooler Event"
+		"text_english"		"The Summer Event is now live with Summer Claim Checks being redeemed for Summer Coolers.
+			
+This update contains over 60 workshop items and patch notes longer than a stalemate on Hydro.  Check out the blog for more details."
+		"url"		"http://www.teamfortress.com/"
+		"image"		"../backpack/player/items/crafting/crate_summer_cooler_01_large"
+		"header_type"		"1"
+		"header_english"		"News"
+		"header_icon"		"class_icons/filter_all_motd"
+	}
+	"52"
+	{
+		"post_time"		"2013-10-11 14:00:00"
+		"title_english"		"Fall 2013 Crate Event"
+		"text_english"		"The Fall 2013 Acorns Crate and the Fall 2013 Gourd Crate are now unlockable!
+			
+There are 25 new Gold Star approved Community items."
+		"url"		"http://www.teamfortress.com/"
+		"image"		"../backpack/crafting/fall_crate_gourd_large"
+		"header_type"		"1"
+		"header_english"		"News"
+		"header_icon"		"class_icons/filter_all_motd"
+	}
+	"53"
+	{
+		"post_time"		"2013-10-30 06:00:00"
+		"title_english"		"Scream Fortress 2013"
+		"text_english"		"Help Blutarch or Redmond Mann's ghost win the Gravel Wars once and for all! Gather up and cast deadly spells! Over a hundred new community costume pieces available from in-game gifts, Spooky Crates, and the Mann Co. Store! Event ends November 11th, 2013."
+		"url"		"http://www.teamfortress.com/bazbobarrabus"
+		"image"		"illustrations/gamemode_mann_bros"
+		"header_type"		"0"
+		"header_english"		"News"
+		"header_icon"		"class_icons/filter_all_motd"
+	}
+	"54"
+	{
+		"post_time"		"2013-11-20 07:00:00"
+		"title_english"		"The Third Annual Saxxy Awards"
+		"text_english"		"Voting has begun! Nominees will be revealed on November 25th and the winners of this year's Saxxy Awards will be revealed on November 26th, so get voting!"
+		"url"		"http://www.teamfortress.com/post.php?id=11881"
+		"image"		"../backpack/weapons/c_models/c_saxxy/c_saxxy_large"
+		"header_type"		"0"
+		"header_english"		"News"
+	}
+	"55"
+	{
+		"post_time"		"2013-11-22 02:00:00"
+		"title_english"		"Two Cities"
+		"text_english"		"Introducing Mannhattan and Rottenburg in a new Mann vs Machine Tour.  This update includes new upgrades and spoils of war including Killstreak weapons and rare Australium weapons.  
+
+Check out the website for more details."
+		"url"		"http://www.teamfortress.com/twocities/mannhattan"
+		"image"		"illustrations/gamemode_rottenburg_medic"
+		"header_type"		"0"
+		"header_english"		"News"
+		"header_icon"		"class_icons/filter_all_motd"
+	}
+	"56"
+	{
+		"post_time"		"2013-12-21 02:00:00"
+		"title_english"		"Merry Smissmas"
+		"text_english"		"This Smissmas we're giving out Stocking Stuffers to go along with our Winter update.
+New festive weapons and winter-themed community cosmetics have been added to the game along with a great big sale in the Mann Co. Store.  Happy Holidays!"
+		"url"		"http://www.teamfortress.com/"
+		"image"		"../backpack/crafting/winter2013_stocking_stuffer_large"
+		"header_type"		"0"
+		"header_english"		"News"
+		"header_icon"		"class_icons/filter_all_motd"
+	}
+	"57"
+	{
+		"post_time"		"2014-02-08 02:00:00"
+		"title_english"		"Mann Co. Strongbox"
+		"text_english"		"The Mann Co. Strongbox can now be unlocked and contains 43 new Gold Star approved Community items. Mann Co. Strongboxes will become rare drops after February 24th.
+			
+New multiplayer quick play options have been added along with other fixes and updates. For more details see the Update Notes by clicking the button below."
+		"url"		"http://www.teamfortress.com/?tab=updates"
+		"image"		"../backpack/crafting/strongbox_crate_key_large"
+		"header_type"		"1"
+		"header_english"		"New Community Items"
 		"header_icon"		"class_icons/filter_all_motd"
 	}
 }
